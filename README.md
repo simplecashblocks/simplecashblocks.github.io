@@ -1,2 +1,2 @@
 # simplecashblocks.github.io
-SimpleCash Explorer 
+SimpleCash Blockchain Explorer 
